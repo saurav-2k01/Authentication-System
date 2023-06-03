@@ -1,3 +1,2 @@
-from setting import *
 
-print(Database)
+print("This rough work space will be used for testing purpose.")
